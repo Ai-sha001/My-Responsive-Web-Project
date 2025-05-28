@@ -1,0 +1,107 @@
+#nav {
+
+background-color: hsl(193, 100%, 96%) !important;
+}
+
+.try {
+
+    width: 100px;
+height: auto;
+    background-color: hsl(322, 100%, 66%);
+    /* justify-items: center; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 40px;
+}
+
+#sectionone {
+
+    background-image: url(./Images/bg-hero-desktop.svg) !important;
+     margin-bottom: 40px;
+}
+
+#build {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+ color: black !important;
+ font-size: x-large !important;
+ text-align: left;
+
+
+}
+
+
+#build2 {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+ color: grey !important;
+ font-size: x-small !important;
+ margin-bottom: 25px !important;
+ text-align: left;
+
+
+}
+
+
+
+
+#build3 {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+ color: grey !important;
+ font-size: small !important;
+ margin-bottom: 25px !important;
+ text-align: left;
+
+
+}
+
+
+#try4 {
+
+width: 170px;
+height: auto;
+    background-color: hsl(322, 100%, 66%);
+   justify-self: center;
+    border-radius: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+
+
+#try2 {
+
+width: 100px;
+height: auto;
+    background-color: hsl(322, 100%, 66%);
+   /* justify-self: center; */
+    border-radius: 40px;
+    margin-left: 30px;
+}
+
+#sectiontwo { background-color:  hsl(193, 100%, 96%) !important;
+    box-shadow: 10px 3px 5px 3px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+
+   
+
+   
+}
+
+#class2 {
+
+    border-color: red !important;
+}
+
+
+#ready {
+
+    width: auto;
+    justify-self: center;
+    text-align: center;
+}
+
+#footer {
+    margin-bottom: 100px !important;
+}
